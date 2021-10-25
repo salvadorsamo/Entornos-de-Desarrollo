@@ -1,5 +1,5 @@
 
-Modificacion de la linea 1
+Modificacion de la linea 1.
 Hola he sacado un 9.
-estoy añadiendo una nueva funcionalidad
+Estoy añadiendo una nueva funcionalidad.
 
